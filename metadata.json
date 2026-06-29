@@ -1,0 +1,6 @@
+{
+  "name": "Sales Analist",
+  "description": "An enterprise-grade SaaS dashboard for managing customers, products, inventory, suppliers, sales, employees, and advanced business intelligence analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
